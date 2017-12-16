@@ -1,0 +1,22 @@
+{
+	"variables": [],
+	"info": {
+		"name": "muber",
+		"_postman_id": "6ea7c06d-fd8e-1e1f-c097-f5388a38c2a3",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET hi",
+			"request": {
+				"url": "http://localhost:3000/api",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
